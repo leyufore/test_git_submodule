@@ -4,3 +4,6 @@
 [submodule "submodule2"]
 	path = submodule2
 	url = https://github.com/input-output-hk/lobster-challenge.git
+[submodule "entry"]
+	path = entry
+	url = git@github.com:leyufore/test_submodule_entry.git
